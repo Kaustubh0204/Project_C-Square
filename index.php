@@ -32,6 +32,7 @@
 <body class="bg-dark">
 
 
+
 <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
   <a class="navbar-brand" href="#">C-Square</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -60,10 +61,21 @@
         <a class="nav-link" href="about.html">About</a>
       </li>
       
+      <li class="nav-item">
+                <a class="nav-link" href="Contact_us.html">Contact us</a>
+      </li>
+      
       
     </ul>
   </div>
 </nav>
+
+<div class="alert alert-success alert-dismissible fade show" role="alert">
+  <strong>Welcome!</strong> to my covid counter hope you like it...
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
 
 <div id="carouselExampleCaptions" class="carousel slide my-1" data-ride="carousel">
   <ol class="carousel-indicators">
