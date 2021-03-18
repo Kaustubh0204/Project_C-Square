@@ -1,0 +1,556 @@
+body{
+    z-index: 1;
+    margin:0px;
+    padding:0px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+ 
+
+  .zoro{
+    z-index: 2;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .pace {
+    z-index: 2;
+    pointer-events: none;
+    user-select: none;
+    z-index: 2000;
+    position: fixed;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 400px;
+    border: 0px;
+    height: 1px;
+    overflow: hidden;
+    background:#1b1b1b;
+  }
+  
+  .pace .pace-progress {
+    z-index: 2;
+    box-sizing: border-box;
+    transform: translate3d(0, 0, 0);
+    max-width: 400px;
+    position: fixed;
+    z-index: 2000;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 100%;
+    height: 100%;
+    width: 100%;
+    background: grey;
+  }
+  
+  .pace.pace-inactive {
+    z-index: 2;
+    display: none;
+  }
+  
+  #preloader{
+    z-index: 2;
+    width:100%;
+    height:100vh;
+    background:#101010;
+    overflow:hidden;
+    position:fixed;
+    transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+    
+  }
+  
+  .p {
+    z-index: 2;
+      position: absolute;
+      top: 40%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: #fff;
+      font-family: 'Goldman', cursive;
+  }
+  
+  .bhendi{
+    z-index:1;
+  }
+  /*
+	@name cryptocurrency
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow:hidden;  }
+
+/* Only edit this if you know what you are doing! */
+img {  position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+
+.font-face {
+	font-family: myFirstFont;
+	src: url(sansation_bold.woff);
+  }
+
+
+  #zorox{
+      position: absolute;
+      z-index: 1;
+      color: white;
+      top:602px;
+     left:23px;
+  }
+
+  #zoroy{
+    position: absolute;
+    z-index: 1;
+    color: red;
+    top:602px;
+   left:530px;
+}
+
+#zoroz{
+    position: absolute;
+    z-index: 1;
+    color: red;
+    top:600px;
+   left:1016px;
+}
+
+#zorow{
+    position: absolute;
+    z-index: 1;
+    color: red;
+    top:10px;
+   left:1440px;
+}
+
+#zorov{
+    position: absolute;
+    z-index: 1;
+    color: red;
+    top:10px;
+   left:1380px;
+}
+
+
+
+#page_cryptocurrency_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	
+}
+
+#_bg__cryptocurrency_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 721px;
+	background:rgba(27,32,62,255);
+	
+}
+
+
+#mask_group_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	object-fit: cover;
+}
+
+
+#rectangle_386 {
+	top: 550px;
+	left: 0px;
+	width: 1920px;
+	height: 272px;
+	max-width: 1000px;
+	background:rgba(10,13,44,255);
+	object-fit: cover;
+}
+
+
+#rectangle_387 {
+	top: 550px;
+	left: 0px;
+	width: 500px;
+	max-width: 1000px;
+	height: 272px;
+	background:rgba(20,32,132,255);
+	object-fit: cover;
+}
+
+#rectangle_3871 {
+	top: 550px;
+	left: 1000px;
+	width: 1500px;
+	max-width: 1000px;
+	height: 272px;
+	background:rgba(20,32,132,255);
+	object-fit: cover;
+}
+
+
+#image_1 {
+	object-fit: cover;
+	top: 0px;
+	left: 500px;
+	width: 600px;
+	height: 600px;
+}
+
+#group_1 {
+	top: 350px;
+	left: 150px;
+	width: 1354px;
+	height: 95px;
+}
+
+#c_square {
+	top: 34px;
+	left: -11px;
+	width: 1354px;
+	height: 107px;
+	overflow: hidden;
+	font-family: Even Stevens;
+	font-size: 56px;
+	text-align: center;
+	line-height: 66px;
+	color:#ffffff;
+	object-fit: cover;
+}
+
+@font-face{
+	font-family: Even Stevens;
+	src: url(Even_Stevens.ttf);
+}
+
+
+#project {
+	top: 0px;
+	left: 520px;
+	width: 254px;
+	height: 41px;
+	overflow: hidden;
+	font-family: IBM Plex Sans;
+	font-size: 20px;
+	text-align: center;
+	line-height: 20px;
+	color:#ffffff;
+	object-fit: cover;
+}
+
+#group_4 {
+	top: 580px;
+	left: 10px;
+	width: 490px;
+	height: 98px;
+}
+#group_2 {
+	top: 8px;
+	left: 0px;
+	width: 82px;
+	height: 82px;
+}
+
+#ellipse_1 {
+	top: 0px;
+	left: 0px;
+	width: 82px;
+	height: 82px;
+	-ms-border-radius: 41px / 41px;
+	-o-border-radius: 41px / 41px;
+	-moz-border-radius: 41px / 41px;
+	-webkit-border-radius: 41px / 41px;
+	border-radius: 41px / 41px;
+	background:rgba(251,3,33,255);
+}
+
+#bar_chart_2 {
+	top: 29px;
+	left: 29px;
+	width: 24px;
+	height: 24px;
+}
+
+#rectangle_374 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:rgba(255,255,255,255);
+}
+
+
+#path_1076 {
+	top: 8px;
+	left: 11px;
+	width: 2px;
+	height: 13px;
+}
+
+
+#path_1077 {
+	top: 4px;
+	left: 18px;
+	width: 2px;
+	height: 17px;
+}
+
+
+#path_1078 {
+	top: 12px;
+	left: 4px;
+	width: 2px;
+	height: 9px;
+}
+
+#group_3 {
+	top: 0px;
+	left: 125px;
+	width: 365px;
+	height: 98px;
+}
+
+#manage_assets {
+	top: 0px;
+	left: 0px;
+	width: 208px;
+	height: 45px;
+	font-family: IBM Plex Sans;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#trade_with_upto_5x_leverage_for_spot_trading {
+	top: 49px;
+	left: 0px;
+	width: 365px;
+	height: 62px;
+	overflow: hidden;
+	font-family: IBM Plex Sans;
+	font-size: 18px;
+	text-align: left;
+	line-height: 18px;
+	color:#ffffff;
+}
+
+
+#path_1100 {
+	top: 550px;
+	left: 500px;
+	width: 1px;
+	height: 272px;
+}
+
+#path_11001 {
+	top: 550px;
+	left: 1000px;
+	width: 1px;
+	height: 272px;
+}
+
+#group_5 {
+	top: 580px;
+	left: 510px;
+	width: 490px;
+	height: 98px;
+}
+#group_2_ek1 {
+	top: 8px;
+	left: 0px;
+	width: 82px;
+	height: 82px;
+}
+
+#ellipse_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 82px;
+	height: 82px;
+	-ms-border-radius: 41px / 41px;
+	-o-border-radius: 41px / 41px;
+	-moz-border-radius: 41px / 41px;
+	-webkit-border-radius: 41px / 41px;
+	border-radius: 41px / 41px;
+	background:rgba(255,255,255,255);
+}
+
+#briefcase {
+	top: 29px;
+	left: 29px;
+	width: 24px;
+	height: 24px;
+}
+
+#rectangle_384 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+	background:rgba(255,255,255,255);
+}
+
+
+#path_1097 {
+	top: 3px;
+	left: 7px;
+	width: 10px;
+	height: 18px;
+}
+
+
+#path_1098 {
+	top: 7px;
+	left: 19px;
+	width: 3px;
+	height: 14px;
+}
+
+
+#path_1099 {
+	top: 7px;
+	left: 2px;
+	width: 3px;
+	height: 14px;
+}
+
+#group_3_ek1 {
+	top: 0px;
+	left: 125px;
+	width: 365px;
+	height: 98px;
+}
+
+#credit_card_payment {
+	top: 0px;
+	left: 0px;
+	width: 282px;
+	height: 45px;
+	font-family: IBM Plex Sans;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#buy_cryptocurrency_with_your_credit_card_via_our_certified_partner {
+	top: 49px;
+	left: 0px;
+	width: 365px;
+	height: 62px;
+	overflow: hidden;
+	font-family: IBM Plex Sans;
+	font-size: 18px;
+	text-align: left;
+	line-height: 18px;
+	color:#ffffff;
+}
+
+#group_6 {
+	top: 580px;
+	left: 1010px;
+	width: 490px;
+	height: 98px;
+}
+#group_2_ek2 {
+	top: 8px;
+	left: 0px;
+	width: 82px;
+	height: 82px;
+}
+
+#ellipse_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 82px;
+	height: 82px;
+	-ms-border-radius: 41px / 41px;
+	-o-border-radius: 41px / 41px;
+	-moz-border-radius: 41px / 41px;
+	-webkit-border-radius: 41px / 41px;
+	border-radius: 41px / 41px;
+	background:rgba(255,255,255,255);
+}
+
+#backspace {
+	top: 29px;
+	left: 29px;
+	width: 24px;
+	height: 24px;
+}
+
+#rectangle_373 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+	background:rgba(255,255,255,255);
+}
+
+
+#path_1075 {
+	top: 4px;
+	left: 2px;
+	width: 19.950927734375px;
+	height: 16.000122070312px;
+}
+
+#group_3_ek2 {
+	top: 0px;
+	left: 125px;
+	width: 365px;
+	height: 98px;
+}
+
+#secure_storage {
+	top: 0px;
+	left: 0px;
+	width: 209px;
+	height: 45px;
+	font-family: IBM Plex Sans;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#credit_funds_held_in_dedicated_multi_sign_code_wallet__24_7_monitoring_ {
+	top: 49px;
+	left: 0px;
+	width: 365px;
+	height: 62px;
+	overflow: hidden;
+	font-family: IBM Plex Sans;
+	font-size: 18px;
+	text-align: left;
+	line-height: 18px;
+	color:#ffffff;
+}
+
+#type{
+	position: absolute;
+	z-index:3;
+	top:150px;
+	text-decoration-color: white;
+}
+
+

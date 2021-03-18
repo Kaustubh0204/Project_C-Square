@@ -1,0 +1,42 @@
+#cb{
+    position: absolute;
+    right:15%;
+}
+.illus{
+    position: absolute;
+   left:15%;
+   
+}
+#logout{
+    position: absolute;
+    z-index: 1;
+    color: red;
+    top:15px;
+   left:1400px;
+  }
+  
+  
+  
+  #home{
+    position: absolute;
+    z-index: 1;
+    color: red;
+    top:15px;
+   left:1330px;
+  }
+
+  @font-face{
+    font-family: Even Stevens;
+    src: url(Even_Stevens.ttf);
+  }
+
+  #csqr{
+    font-family: Even Stevens;
+    color: aqua;
+    font-size: 10px;
+    left:20%;
+  }
+
+  #footer{
+   top:100%; 
+  }

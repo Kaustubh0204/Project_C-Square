@@ -1,0 +1,573 @@
+{ name:Afghanistan,
+confirmed:42795
+ },
+{ name:Albania,
+confirmed:26211
+ },
+{ name:Algeria,
+confirmed:65108
+ },
+{ name:Andorra,
+confirmed:5616
+ },
+{ name:Angola,
+confirmed:13053
+ },
+{ name:Antigua and Barbuda,
+confirmed:131
+ },
+{ name:Argentina,
+confirmed:1284519
+ },
+{ name:Armenia,
+confirmed:112680
+ },
+{ name:Australia,
+confirmed:27676
+ },
+{ name:Austria,
+confirmed:181642
+ },
+{ name:Azerbaijan,
+confirmed:70216
+ },
+{ name:Bahamas,
+confirmed:7124
+ },
+{ name:Bahrain,
+confirmed:84192
+ },
+{ name:Bangladesh,
+confirmed:427198
+ },
+{ name:Barbados,
+confirmed:249
+ },
+{ name:Belarus,
+confirmed:110455
+ },
+{ name:Belgium,
+confirmed:520393
+ },
+{ name:Belize,
+confirmed:4596
+ },
+{ name:Benin,
+confirmed:2844
+ },
+{ name:Bhutan,
+confirmed:369
+ },
+{ name:Bolivia,
+confirmed:142889
+ },
+{ name:Bosnia and Herzegovina,
+confirmed:68293
+ },
+{ name:Botswana,
+confirmed:8225
+ },
+{ name:Brazil,
+confirmed:5781582
+ },
+{ name:Brunei,
+confirmed:148
+ },
+{ name:Bulgaria,
+confirmed:90725
+ },
+{ name:Burkina Faso,
+confirmed:2586
+ },
+{ name:Burma,
+confirmed:65598
+ },
+{ name:Burundi,
+confirmed:623
+ },
+{ name:Cabo Verde,
+confirmed:9694
+ },
+{ name:Cambodia,
+confirmed:301
+ },
+{ name:Cameroon,
+confirmed:22490
+ },
+{ name:Canada,
+confirmed:285936
+ },
+{ name:Central African Republic,
+confirmed:4888
+ },
+{ name:Chad,
+confirmed:1578
+ },
+{ name:Chile,
+confirmed:526438
+ },
+{ name:China,
+confirmed:91783
+ },
+{ name:Colombia,
+confirmed:1174012
+ },
+{ name:Comoros,
+confirmed:574
+ },
+{ name:Congo (Brazzaville),
+confirmed:5379
+ },
+{ name:Congo (Kinshasa),
+confirmed:11692
+ },
+{ name:Costa Rica,
+confirmed:120939
+ },
+{ name:Cote d'Ivoire,
+confirmed:20882
+ },
+{ name:Croatia,
+confirmed:75922
+ },
+{ name:Cuba,
+confirmed:7487
+ },
+{ name:Cyprus,
+confirmed:6646
+ },
+{ name:Czechia,
+confirmed:446675
+ },
+{ name:Denmark,
+confirmed:59478
+ },
+{ name:Diamond Princess,
+confirmed:712
+ },
+{ name:Djibouti,
+confirmed:5641
+ },
+{ name:Dominica,
+confirmed:68
+ },
+{ name:Dominican Republic,
+confirmed:131636
+ },
+{ name:Ecuador,
+confirmed:177513
+ },
+{ name:Egypt,
+confirmed:110095
+ },
+{ name:El Salvador,
+confirmed:36030
+ },
+{ name:Equatorial Guinea,
+confirmed:5104
+ },
+{ name:Eritrea,
+confirmed:493
+ },
+{ name:Estonia,
+confirmed:6881
+ },
+{ name:Eswatini,
+confirmed:6060
+ },
+{ name:Ethiopia,
+confirmed:101248
+ },
+{ name:Fiji,
+confirmed:35
+ },
+{ name:Finland,
+confirmed:18542
+ },
+{ name:France,
+confirmed:1915282
+ },
+{ name:Gabon,
+confirmed:9048
+ },
+{ name:Gambia,
+confirmed:3697
+ },
+{ name:Georgia,
+confirmed:69681
+ },
+{ name:Germany,
+confirmed:762832
+ },
+{ name:Ghana,
+confirmed:49957
+ },
+{ name:Greece,
+confirmed:66637
+ },
+{ name:Grenada,
+confirmed:32
+ },
+{ name:Guatemala,
+confirmed:113543
+ },
+{ name:Guinea,
+confirmed:12537
+ },
+{ name:Guinea-Bissau,
+confirmed:2419
+ },
+{ name:Guyana,
+confirmed:4662
+ },
+{ name:Haiti,
+confirmed:9160
+ },
+{ name:Holy See,
+confirmed:27
+ },
+{ name:Honduras,
+confirmed:101468
+ },
+{ name:Hungary,
+confirmed:126790
+ },
+{ name:Iceland,
+confirmed:5160
+ },
+{ name:India,
+confirmed:8728795
+ },
+{ name:Indonesia,
+confirmed:452291
+ },
+{ name:Iran,
+confirmed:726585
+ },
+{ name:Iraq,
+confirmed:511806
+ },
+{ name:Ireland,
+confirmed:66632
+ },
+{ name:Israel,
+confirmed:322159
+ },
+{ name:Italy,
+confirmed:1066401
+ },
+{ name:Jamaica,
+confirmed:9634
+ },
+{ name:Japan,
+confirmed:113655
+ },
+{ name:Jordan,
+confirmed:132086
+ },
+{ name:Kazakhstan,
+confirmed:119129
+ },
+{ name:Kenya,
+confirmed:66723
+ },
+{ name:Korea, South,
+confirmed:28133
+ },
+{ name:Kosovo,
+confirmed:26888
+ },
+{ name:Kuwait,
+confirmed:134932
+ },
+{ name:Kyrgyzstan,
+confirmed:64887
+ },
+{ name:Laos,
+confirmed:24
+ },
+{ name:Latvia,
+confirmed:9381
+ },
+{ name:Lebanon,
+confirmed:100703
+ },
+{ name:Lesotho,
+confirmed:2026
+ },
+{ name:Liberia,
+confirmed:1468
+ },
+{ name:Libya,
+confirmed:71804
+ },
+{ name:Liechtenstein,
+confirmed:905
+ },
+{ name:Lithuania,
+confirmed:29812
+ },
+{ name:Luxembourg,
+confirmed:25218
+ },
+{ name:MS Zaandam,
+confirmed:9
+ },
+{ name:Madagascar,
+confirmed:17223
+ },
+{ name:Malawi,
+confirmed:5958
+ },
+{ name:Malaysia,
+confirmed:43791
+ },
+{ name:Maldives,
+confirmed:12085
+ },
+{ name:Mali,
+confirmed:3792
+ },
+{ name:Malta,
+confirmed:7646
+ },
+{ name:Marshall Islands,
+confirmed:1
+ },
+{ name:Mauritania,
+confirmed:7900
+ },
+{ name:Mauritius,
+confirmed:468
+ },
+{ name:Mexico,
+confirmed:991835
+ },
+{ name:Moldova,
+confirmed:86038
+ },
+{ name:Monaco,
+confirmed:532
+ },
+{ name:Mongolia,
+confirmed:412
+ },
+{ name:Montenegro,
+confirmed:25509
+ },
+{ name:Morocco,
+confirmed:276821
+ },
+{ name:Mozambique,
+confirmed:14094
+ },
+{ name:Namibia,
+confirmed:13345
+ },
+{ name:Nepal,
+confirmed:204242
+ },
+{ name:Netherlands,
+confirmed:437376
+ },
+{ name:New Zealand,
+confirmed:1995
+ },
+{ name:Nicaragua,
+confirmed:5661
+ },
+{ name:Niger,
+confirmed:1282
+ },
+{ name:Nigeria,
+confirmed:64728
+ },
+{ name:North Macedonia,
+confirmed:43835
+ },
+{ name:Norway,
+confirmed:27228
+ },
+{ name:Oman,
+confirmed:119442
+ },
+{ name:Pakistan,
+confirmed:352296
+ },
+{ name:Panama,
+confirmed:143352
+ },
+{ name:Papua New Guinea,
+confirmed:599
+ },
+{ name:Paraguay,
+confirmed:69653
+ },
+{ name:Peru,
+confirmed:928006
+ },
+{ name:Philippines,
+confirmed:402820
+ },
+{ name:Poland,
+confirmed:641496
+ },
+{ name:Portugal,
+confirmed:198011
+ },
+{ name:Qatar,
+confirmed:135132
+ },
+{ name:Romania,
+confirmed:334236
+ },
+{ name:Russia,
+confirmed:1843678
+ },
+{ name:Rwanda,
+confirmed:5319
+ },
+{ name:Saint Kitts and Nevis,
+confirmed:19
+ },
+{ name:Saint Lucia,
+confirmed:148
+ },
+{ name:Saint Vincent and the Grenadines,
+confirmed:77
+ },
+{ name:San Marino,
+confirmed:1190
+ },
+{ name:Sao Tome and Principe,
+confirmed:963
+ },
+{ name:Saudi Arabia,
+confirmed:352160
+ },
+{ name:Senegal,
+confirmed:15744
+ },
+{ name:Serbia,
+confirmed:73765
+ },
+{ name:Seychelles,
+confirmed:160
+ },
+{ name:Sierra Leone,
+confirmed:2387
+ },
+{ name:Singapore,
+confirmed:58102
+ },
+{ name:Slovakia,
+confirmed:81772
+ },
+{ name:Slovenia,
+confirmed:50870
+ },
+{ name:Solomon Islands,
+confirmed:16
+ },
+{ name:Somalia,
+confirmed:4301
+ },
+{ name:South Africa,
+confirmed:744732
+ },
+{ name:South Sudan,
+confirmed:2960
+ },
+{ name:Spain,
+confirmed:1437220
+ },
+{ name:Sri Lanka,
+confirmed:15723
+ },
+{ name:Sudan,
+confirmed:14401
+ },
+{ name:Suriname,
+confirmed:5261
+ },
+{ name:Sweden,
+confirmed:171365
+ },
+{ name:Switzerland,
+confirmed:250396
+ },
+{ name:Syria,
+confirmed:6486
+ },
+{ name:Taiwan*,
+confirmed:589
+ },
+{ name:Tajikistan,
+confirmed:11496
+ },
+{ name:Tanzania,
+confirmed:509
+ },
+{ name:Thailand,
+confirmed:3861
+ },
+{ name:Timor-Leste,
+confirmed:30
+ },
+{ name:Togo,
+confirmed:2605
+ },
+{ name:Trinidad and Tobago,
+confirmed:5930
+ },
+{ name:Tunisia,
+confirmed:76106
+ },
+{ name:Turkey,
+confirmed:404894
+ },
+{ name:US,
+confirmed:10552821
+ },
+{ name:Uganda,
+confirmed:15217
+ },
+{ name:Ukraine,
+confirmed:515755
+ },
+{ name:United Arab Emirates,
+confirmed:146735
+ },
+{ name:United Kingdom,
+confirmed:1293715
+ },
+{ name:Uruguay,
+confirmed:3795
+ },
+{ name:Uzbekistan,
+confirmed:69560
+ },
+{ name:Vanuatu,
+confirmed:1
+ },
+{ name:Venezuela,
+confirmed:96140
+ },
+{ name:Vietnam,
+confirmed:1253
+ },
+{ name:West Bank and Gaza,
+confirmed:60784
+ },
+{ name:Western Sahara,
+confirmed:10
+ },
+{ name:Yemen,
+confirmed:2071
+ },
+{ name:Zambia,
+confirmed:17056
+ },
+{ name:Zimbabwe,
+confirmed:8696
+ },
